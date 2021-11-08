@@ -1,0 +1,14 @@
+.myWork {
+    min-height: 100vh;
+    background-color: #f57878;
+}
+
+.workContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.work {
+    border: 1px solid;
+    width: 100%;
+}

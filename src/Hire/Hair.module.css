@@ -1,0 +1,9 @@
+.hair{
+height: 33vh;
+    background-color: #f3daa7;
+}
+.hairCont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

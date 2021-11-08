@@ -1,0 +1,25 @@
+.areaSkills {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.skill {
+    width: 350px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+    background-color: black;
+}

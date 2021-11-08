@@ -1,0 +1,27 @@
+.contacts {
+    min-height: 100vh;
+    background-color: #b1f3a7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contactsArea{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.allInput {
+    width: 280px;
+    height: 20px;
+}
+
+.textArea {
+    width: 280px;
+    height: 400px;
+}
+.button{
+
+margin-bottom: auto;
+
+}
+
